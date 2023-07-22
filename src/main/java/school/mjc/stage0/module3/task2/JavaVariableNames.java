@@ -2,7 +2,7 @@ package school.mjc.stage0.module3.task2;
 
 public class JavaVariableNames {
     public static void main(String[] args) {
-        int tomorrow2 = 0;
+        int tomorrow = 0;
         int money = 10;
         int hundredPercent = 100;
         int back = 1000;
